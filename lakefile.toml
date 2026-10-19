@@ -1,0 +1,6 @@
+name = "ToftDegreeFive"
+version = "0.1.0"
+defaultTargets = ["ToftDegreeFive"]
+
+[[lean_lib]]
+name = "ToftDegreeFive"
